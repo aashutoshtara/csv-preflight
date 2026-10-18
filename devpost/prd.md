@@ -48,6 +48,6 @@ All items under `scope.md > Explicitly Cut` and `scope.md > Later`. No adjacent 
 Project constraints: this competition, public Reddit problem discovery, existing/free access, and internal-browser verification. The recommended audience, workflow, checks, limits, layout and outputs were reviewed and approved. The deployment destination is now GitHub Pages with csv.nakshatraveda.tech. No interviews or measured outcomes.
 
 ## Review
-Product plan approved. The learner selected the name KeepText from AI suggestions. The short description, submission answers and narration remain pending; AI assistance is not relabelled as unaided human authorship. No personal reflection is generated.
+Product plan approved. The learner selected the name CSV Preflight. The short description, submission answers and narration remain pending; AI assistance is not relabelled as unaided human authorship. No personal reflection is generated.
 
 Planning review approved on 18 October 2026. Personal registration answers and private learner context are excluded from this release.

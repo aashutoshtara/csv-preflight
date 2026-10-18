@@ -1,4 +1,4 @@
-# KeepText
+# CSV Preflight
 
 A browser-local proof of concept for inspecting literal CSV values and producing a text-preserving review workbook. It does not clean, repair or infer the intended meaning of data.
 
