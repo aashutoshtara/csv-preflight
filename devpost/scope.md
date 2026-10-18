@@ -46,6 +46,6 @@ Other delimiters/encodings, larger files, target-specific import profiles and fi
 Cleaning, editing, deduplication, date guessing, lost-digit recovery, XLSX input, cloud storage, integrations, universal compatibility guarantees and measured time-saving claims. The workbook cannot replace CSV in CSV-only systems. A matching hash proves byte identity, not semantic correctness.
 
 ## Decisions and Approval
-The user delegated discovery and solution selection. The scope, product plan, technical approach and build order were approved together. The first working prototype then received positive learner feedback. Final review and submission authorship remain separate.
+The user delegated discovery and solution selection. The scope, product plan, technical approach and build order were approved together. The first working prototype then received positive learner feedback. Final app readiness was subsequently approved for public release. Submission copy is AI-assisted and remains subject to entrant review.
 
 Planning review approved on 18 October 2026. Personal registration answers and private learner context are excluded from this release.

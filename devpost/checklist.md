@@ -5,7 +5,7 @@ status: approved
 
 # Build Checklist
 
-Build mode: fast, approved with the combined plan on 18 October 2026. One early functional check and final review remain. Local Git checkpoints approved.
+Build mode: fast, approved with the combined plan on 18 October 2026. Early and final readiness reviews are complete. Local Git checkpoints approved.
 
 ## Slices
 

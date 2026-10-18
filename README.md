@@ -51,7 +51,7 @@ Codex, TypeScript, Vite, Papa Parse, ExcelJS, JSZip, Node.js built-in tests, Pyt
 
 ## Project status
 
-Registration confirmed. First slice approved. Original-byte CSV download and integrity receipt implemented and mechanically checked; final review and publication pending. Public repository, public demo video, remaining submission fields and final entry submission are pending.
+Registration, early review and final app/public-release approval are complete. The original-byte CSV download, verified workbook and integrity receipt are implemented and checked. Public MIT source is available at https://github.com/aashutoshtara/csv-preflight. GitHub Pages is configured for csv.nakshatraveda.tech; HTTPS provisioning is pending. Demo-video publication, entrant review of submission answers and final Devpost submission remain pending.
 
 
 ## GitHub Pages packaging
