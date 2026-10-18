@@ -1,4 +1,4 @@
-# CSV Preflight (working name)
+# KeepText
 
 A browser-local proof of concept for inspecting literal CSV values and producing a text-preserving review workbook. It does not clean, repair or infer the intended meaning of data.
 
@@ -51,7 +51,7 @@ Codex, TypeScript, Vite, Papa Parse, ExcelJS, JSZip, Node.js built-in tests, Pyt
 
 ## Project status
 
-Registration confirmed. First slice approved. Original-byte CSV download and integrity receipt implemented and mechanically checked; final review and publication pending. Public repository, public demo video, learner-written submission fields and final entry submission are pending.
+Registration confirmed. First slice approved. Original-byte CSV download and integrity receipt implemented and mechanically checked; final review and publication pending. Public repository, public demo video, remaining submission fields and final entry submission are pending.
 
 
 ## GitHub Pages packaging

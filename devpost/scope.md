@@ -22,7 +22,7 @@ Choose a local CSV or labelled synthetic sample → inspect literal values and r
 These qualitative reports do not establish market size, prevalence or customer validation. Fixtures will be synthetic.
 
 ## Inspiration & Identity
-Agent proposal: one calm inspection workspace, warm neutral background, dark ink type, teal verified states, amber risks and monospace data. A selected-cell panel exposes exact text. The approved working interface uses CSV Preflight; final learner-written submission identity remains pending.
+Agent proposal: one calm inspection workspace, warm neutral background, dark ink type, teal verified states, amber risks and monospace data. A selected-cell panel exposes exact text. The learner selected KeepText from AI-suggested naming options. The app uses that selected name; the short description and remaining submission answers are still pending.
 
 ## Why This Matters to the Learner
 The user asked to discover a public Reddit problem and complete a competition entry, within free access and using only the internal browser. No personal use or learning outcome is attributed to them.
