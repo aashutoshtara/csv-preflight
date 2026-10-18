@@ -51,7 +51,13 @@ Codex, TypeScript, Vite, Papa Parse, ExcelJS, JSZip, Node.js built-in tests, Pyt
 
 ## Project status
 
-Registration, early review and final app/public-release approval are complete. The original-byte CSV download, verified workbook and integrity receipt are implemented and checked. Public MIT source is available at https://github.com/aashutoshtara/csv-preflight. GitHub Pages is configured for csv.nakshatraveda.tech; HTTPS provisioning is pending. Demo-video publication, entrant review of submission answers and final Devpost submission remain pending.
+Submitted to Build With AI: Basics on 18 October 2026; Devpost confirmed receipt. The original-byte CSV download, verified workbook and integrity receipt are implemented and checked.
+
+- Entry: https://devpost.com/software/csv-preflight
+- Public 1:44 demo: https://www.youtube.com/watch?v=wV5xZKAHjWU
+- MIT source: https://github.com/aashutoshtara/csv-preflight
+
+GitHub Pages is configured for csv.nakshatraveda.tech; HTTPS provisioning is pending, so the live-app address is not yet included in the entry. The submission uses the public source and video. The silent video consists of edited captures of the working app; its screen-hold durations are not a real-time performance benchmark.
 
 
 ## GitHub Pages packaging
